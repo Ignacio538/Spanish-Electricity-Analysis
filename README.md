@@ -53,7 +53,7 @@ Puedes explorarlas en la app interactiva con gráficos y respuestas explicadas.
 
 ## 🔗 Accede al proyecto
 
-- 📎 App (local): ejecuta `streamlit run streamlit_app/app.py`
+- 📎 App (local): ejecuta `streamlit run Streamlit_App/app.py`
 - 📂 Datos: carpeta `/data`
 - 📒 Análisis completo: [notebooks/analisis.ipynb](notebooks/analisis.ipynb)
 - 🔗 Proyecto completo: [GitHub](https://github.com/Ignacio538/Spanish-Electricity-Analysis)
