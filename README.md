@@ -1,6 +1,6 @@
 # ⚡ Análisis del Mercado Eléctrico Español
 
-![Banner](images/Pregunta6.png)
+![Banner](Images/Pregunta6.png)
 
 **Autor**: Ignacio Rivas  
 **Centro**: Upgrade Hub  
