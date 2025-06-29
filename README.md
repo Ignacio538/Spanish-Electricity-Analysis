@@ -66,3 +66,22 @@ Puedes explorarlas en la app interactiva con gráficos y respuestas explicadas.
 - Electricidad: [REE - Red Eléctrica Española](https://www.ree.es/es)
 
 ---
+
+### ▶️ Cómo ejecutar esta app
+
+1. Clona el repositorio:
+
+    ```bash
+    git clone https://github.com/Ignacio538/Spanish-Electricity-Analysis.git
+     ```
+
+2. Entra en la carpeta del proyecto:
+
+    ```bash
+    cd Spanish-Electricity-Analysis
+    ```
+3. Ejecuta la app con Streamlit:
+
+    ```bash
+    streamlit run streamlit_app/app.py
+    ```
