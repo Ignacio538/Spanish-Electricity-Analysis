@@ -55,8 +55,8 @@ Puedes explorarlas en la app interactiva con gráficos y respuestas explicadas.
 
 - 📎 App (local): ejecuta `streamlit run Streamlit_App/app.py`
 - 📂 Datos: carpeta `/data`
-- 📒 Análisis completo: [notebooks/Analysis.ipynb](notebooks/Analysis.ipynb)
-- 🔮 Predicciones: [notebooks/Prediction.ipynb](notebooks/Prediction.ipynb)
+- 📒 Análisis completo: [Notebooks/Analysis.ipynb](Notebooks/Analysis.ipynb)
+- 🔮 Predicciones: [Notebooks/Prediction.ipynb](Notebooks/Prediction.ipynb)
 - 🔗 Proyecto completo: [GitHub](https://github.com/Ignacio538/Spanish-Electricity-Analysis)
 
 ---
