@@ -98,10 +98,20 @@ elif seccion == "📊 Análisis":
     """)
         st.image("C:/Users/ignac/Desktop/202502PT/Proyecto final/Imagenes/Pregunta7.png", caption="Evolución de temperatura, humedad y precipitaciones")
 
-# Predicción (placeholder por ahora)
 elif seccion == "📉 Predicción":
     st.header("🔮 Predicción del Precio Eléctrico")
-    st.warning("Esta sección está en desarrollo. Pronto se incluirán modelos predictivos desde AzureML.")
+
+    st.image("C:/Users/ignac/Desktop/202502PT/Proyecto final/Imagenes/RealidadVSPrediccion.png", caption="Comparativa entre precios eléctricos reales y predichos")
+    
+    st.markdown("""
+    La predicción de los precios eléctricos es un desafío complejo debido a la alta volatilidad de los factores que los afectan.
+                  
+    Entre ellos destacan variables climáticas como la cantidad de lluvia, que aumenta la generación hidráulica, o la radiación solar, que afecta la generación solar; ambos factores tienden a reducir el precio al hacer que disminuya la generación por fuentes convencionales, las cuales son más caras.  
+
+    Además, eventos externos inesperados pueden impactar significativamente, como se observó en 2022, donde la guerra en Ucrania provocó una subida abrupta y sostenida de los precios que los modelos no pudieron anticipar con precisión, reflejándose en la gran diferencia entre valores predichos y reales.  
+
+    Estos aspectos hacen que, a pesar del esfuerzo en modelado, la predicción precise un margen amplio de incertidumbre y continúe siendo un área abierta a mejoras y nuevas aproximaciones.
+    """)
 
 # Recursos
 elif seccion == "📎 Recursos":

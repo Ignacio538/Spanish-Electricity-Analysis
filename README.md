@@ -21,7 +21,7 @@ También se busca prever precios futuros utilizando modelos de predicción (en d
 - Python (Pandas, Seaborn, Matplotlib)
 - Power BI (visualizaciones)
 - Streamlit (app web)
-- Azure ML (predicción futura, en desarrollo)
+- Azure ML (predicción futura)
 - GitHub
 
 ---
@@ -31,7 +31,7 @@ También se busca prever precios futuros utilizando modelos de predicción (en d
 📦 Spanish-Electricity-Analysis
 ├── data/ → Datasets originales y limpios
 ├── images/ → Imágenes exportadas de Power BI y VSC
-├── notebooks/ → Notebook con el análisis exploratorio
+├── notebooks/ → Notebook con el análisis exploratorio y con la predicción
 ├── streamlit_app/ → Aplicación web con Streamlit (app.py)
 ├── README.md → Este archivo
 ├── requirements.txt → Librerías necesarias para ejecutar la app
@@ -55,7 +55,8 @@ Puedes explorarlas en la app interactiva con gráficos y respuestas explicadas.
 
 - 📎 App (local): ejecuta `streamlit run Streamlit_App/app.py`
 - 📂 Datos: carpeta `/data`
-- 📒 Análisis completo: [notebooks/analisis.ipynb](notebooks/analisis.ipynb)
+- 📒 Análisis completo: [notebooks/Analysis.ipynb](notebooks/Analysis.ipynb)
+- 🔮 Predicciones: [notebooks/Prediction.ipynb](notebooks/Prediction.ipynb)
 - 🔗 Proyecto completo: [GitHub](https://github.com/Ignacio538/Spanish-Electricity-Analysis)
 
 ---
