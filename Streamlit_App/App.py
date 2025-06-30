@@ -129,6 +129,6 @@ elif seccion == "📎 Recursos":
         - ProphetModel (21,42%)
         - Arimax (21,42%)
     
-                
-    - ⚠️ Nota: Para los datos climatológicos se ha utilizado el servicio SIAR del Ministerio de Agricultura, Pesca y Alimentación de España, por tanto faltan los datos de aquellas comunidades que tienen la competencia en materia de agricultura y regadíos (estas son: Asturias, Cantabria, Cataluña y País Vasco).
-    """)
+    <br>
+    ⚠️ **Nota**: Para los datos climatológicos se ha utilizado el servicio SIAR del Ministerio de Agricultura, Pesca y Alimentación de España, por tanto faltan los datos de aquellas comunidades que tienen la competencia en materia de agricultura y regadíos (estas son: Asturias, Cantabria, Cataluña y País Vasco).
+    """, unsafe_allow_html=True)
