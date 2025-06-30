@@ -123,4 +123,12 @@ elif seccion == "📎 Recursos":
     - 🔗 GitHub del proyecto: [electricity-project](https://github.com/Ignacio538/Spanish-Electricity-Analysis)
     - 🌦️ Datos climatológicos: [SIAR](https://servicio.mapa.gob.es/websiar/SeleccionParametrosMap.aspx?dst=1)
     - ⚡ Precio de la electricidad, demanda y generación eléctrica: [REE](https://www.ree.es/es)
+    - 🔮 Predicciones: Se han realizado en AzureML a través del método VotingEnsemble el cual combina los siguientes modelos:
+        - RobustScaler, ElasticNet (14,28%)
+        - RobustScaler, ElasticNet (42,88%)
+        - ProphetModel (21,42%)
+        - Arimax (21,42%)
+    
+                
+    - ⚠️ Nota: Para los datos climatológicos se ha utilizado el servicio SIAR del Ministerio de Agricultura, Pesca y Alimentación de España, por tanto faltan los datos de aquellas comunidades que tienen la competencia en materia de agricultura y regadíos (estas son: Asturias, Cantabria, Cataluña y País Vasco).
     """)
